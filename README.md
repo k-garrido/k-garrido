@@ -1,7 +1,9 @@
-### Hi there 👋
+### ¡Hi there dear visitor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
-👨‍💻 Software Developer | ❤ MERN | 💭 Design Thinker | User-Centric Dev. | ☁️ Cloud | 🤖 ML Enthusiast | Interested to build tech 💻 that solve real 🌍 problem
+👨‍💻 Front-end Developer | ❤ MERN | 💭 Design Thinker |  | |  | Interested to build tech 💻 that solve real 🌍 problem
 Bangalore
+
 
 ### Tech & Tools Preference
 
@@ -34,7 +36,5 @@ Bangalore
 ### Let's connect 💬
 
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/katherinne-garrido/
-[gmail]: katherinne.garrido.l@gmail.com
