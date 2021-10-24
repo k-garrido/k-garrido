@@ -1,16 +1,19 @@
 ### ¡Hi there dear visitor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
-👨‍💻 Front-end Developer | ❤ MERN | 💭 Design Thinker |  | |  | Interested to build tech 💻 that solve real 🌍 problem
-Bangalore
+👨‍💻 Front-end Developer | ❤ MERN | Chile :) | 25 years old 
 
 Talking about personal stuff :
-- ❤ My interests are to keep learning  to help to increase the quantity of woman working on this tech world.
-- ⭐️ Feedback lover 
+- ❤ My interests are to keep learning for help to increase the quantity of woman working on this tech world.
+- ⭐️ Feedback lover. 
 - ✋ Always Willing to help.
 - 👨🏽‍💻 I’m currently working on improve my techskills.
 - 💬 Talk to me about aliens and crazy theories about the world 👽.
-- 🥅 Goals 2022: to adopt and raise a cat family 😸, and travel to Ireland with the work and holiday visa.
+- 🥅 Goals 2022: to adopt and raise a cat family 😸, start to learn Japanese and travel to Ireland with the work and holiday visa.
+
+</br>
+
+---
 
 ### Tech & Tools Preference
 
@@ -37,7 +40,7 @@ Talking about personal stuff :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-garrido&show_icons=true&theme=tokyonight)
 ](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-garrido&layout=compact&theme=radical)
 
 ---
 ### Let's connect 💬
