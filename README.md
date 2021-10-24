@@ -4,13 +4,13 @@
 👨‍💻 Front-end Developer | ❤ MERN | 💭 Design Thinker |  | |  | Interested to build tech 💻 that solve real 🌍 problem
 Bangalore
 
-Talking about personal stuff ::
-My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
-While Coding, Listening Music and developing useful code.⭐️
-Just loved to Explore new Tech Stacks.💻
-Always Willing to help (Altruistic). ✋
-👨🏽‍💻 I’m currently working on improving my techskill;
-💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
+Talking about personal stuff :
+- ❤ My interests are to keep learning  to help to increase the quantity of woman working on this tech world.
+- ⭐️ Feedback lover 
+- ✋ Always Willing to help.
+- 👨🏽‍💻 I’m currently working on improve my techskills.
+- 💬 Talk to me about aliens and crazy theories about the world 👽.
+- 🥅 Goals 2022: to adopt and raise a cat family 😸, and travel to Ireland with the work and holiday visa.
 
 ### Tech & Tools Preference
 
@@ -43,7 +43,5 @@ Always Willing to help (Altruistic). ✋
 ### Let's connect 💬
 
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="katherinne.garrido.l@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="22px" alt="mail"></a> 
-&nbsp; &nbsp;
 
 [linkedin]: https://www.linkedin.com/in/katherinne-garrido/
