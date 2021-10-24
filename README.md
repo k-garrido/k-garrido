@@ -1,19 +1,8 @@
 ### Hi there 👋
 
-<!--
-**k-garrido/k-garrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Software Developer | ❤ MERN | 💭 Design Thinker | User-Centric Dev. | ☁️ Cloud | 🤖 ML Enthusiast | Interested to build tech 💻 that solve real 🌍 problem
+Bangalore
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -38,9 +27,10 @@ Here are some ideas to get you started:
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-garrido&show_icons=true&theme=tokyonight)
+](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
